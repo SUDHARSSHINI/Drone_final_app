@@ -1,0 +1,17 @@
+streamlit
+transformers
+pillow
+matplotlib
+requests
+
+streamlit
+pandas
+scikit-learn
+seaborn
+matplotlib
+streamlit
+transformers
+torch
+pillow
+matplotlib
+requests
